@@ -1,0 +1,3 @@
+###Set please Launch options########
+####-novid -console -freq 60 +exec solar.cfg -high -full -language english -noforcemspd -noforcemacce -noforcemparms -m_rawinput -threads 8 -refresh 60  -nojoy -tickrate 128
+##############
